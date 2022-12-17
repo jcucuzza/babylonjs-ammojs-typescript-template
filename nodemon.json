@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts,ejs,css,json,js",
+  "ignore": ["src/**/*.spec.ts", "node_modules"],
+  "exec": "gulp; webpack; ts-node ./dist/app.js"
+}

@@ -1,0 +1,8 @@
+# build folder
+/dist
+
+# npm packages
+/node_modules
+
+#npm package lock file
+package-lock.json
